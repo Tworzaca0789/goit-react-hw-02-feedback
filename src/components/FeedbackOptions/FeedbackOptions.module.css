@@ -1,0 +1,25 @@
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    cursor: pointer;
+}
+.buttonOption {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+    border-radius: 20%;
+    border: 2px solid blue;
+    background-color: cadetblue;
+    color:whitesmoke;
+    margin: 10px 5px;
+    cursor: pointer;
+}
+.buttonOption:hover {
+    background-color: chartreuse;
+    color: blue;
+    cursor: pointer;
+}

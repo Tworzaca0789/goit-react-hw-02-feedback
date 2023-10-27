@@ -1,0 +1,11 @@
+.feedbackSection {
+    display: flex;
+    margin-left: 5px;
+    flex-direction: column;
+}
+.feedbackTitle {
+    display: flex;
+    font-size: 30px;
+    color: darkslategray;
+    margin-left: 5px;
+}

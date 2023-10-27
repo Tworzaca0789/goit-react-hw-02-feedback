@@ -1,0 +1,6 @@
+.message {
+    display: flex;
+    font-size: 26px;
+    color:blue;
+    margin: 10px 5px;
+}
